@@ -3,7 +3,7 @@
 <h3 > HOW TO <h3 />
  <h4> Prerequisites <h4 />
    <ul>
-      <li> You need Kafka to transfer datas simulate the data transfer from a service to another via streaming https://kafka.apache.org/quickstart </li>
+      <li> You need Kafka to simulate the data transfer from a service to another via streaming https://kafka.apache.org/quickstart </li>
       <li> I highly recommend running this on Linux as this is my development environment </li>
       <li> Python 3 </li>
       <li> Docker & Docker compose</li>
