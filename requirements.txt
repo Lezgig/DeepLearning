@@ -1,0 +1,11 @@
+kafka==1.3.5
+kafka_python==2.0.2
+matplotlib==3.7.1
+numpy==1.23.2
+pandas==1.5.1
+pyspark==3.3.2
+seaborn==0.12.2
+minio==7.1.14
+# A choisir entre la version MAC ou autre OS
+# tensorflow_macos==2.12.0
+# tensorflow==2.12.0
